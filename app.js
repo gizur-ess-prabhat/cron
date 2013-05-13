@@ -40,8 +40,8 @@ var recur = require('later').recur
 // 
 // 0: Run in every 5 minutes
 // 1: Run in every 8 minutes
-// 1: Run in every 12 minutes
-// 1: Run in every 15 minutes
+// 2: Run in every 12 minutes
+// 3: Run in every 15 minutes
 var cronTime = ['*/5 * * * *', '*/8 * * * *', '*/12 * * * *', '*/15 * * * *'];
 // Variables
 // =========
